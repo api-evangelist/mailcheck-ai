@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.mailcheck.ai/#documentation
 common:
+  - type: DomainSecurity
+    url: security/mailcheck-ai-domain-security.yml
   - type: Website
     url: https://www.mailcheck.ai/#documentation
   - type: PublicAPIsListing
