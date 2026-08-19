@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mailcheck-
 name: MailCheck.ai
 description: "Prevent users to sign up with temporary email addresses"
 url: https://www.mailcheck.ai/#documentation
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
