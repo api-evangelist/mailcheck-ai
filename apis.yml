@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.mailcheck.ai/#documentation', status: 301, note: 'declared website redirects to https://www.usercheck.com/?ref=mailcheck — a different registrable domain (mailcheck.ai -> usercheck.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mailcheck-ai.png
 name: MailCheck.ai
 description: "Prevent users to sign up with temporary email addresses"
